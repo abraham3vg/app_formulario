@@ -188,7 +188,7 @@ export default function App() {
         <div className="max-w-6xl mx-auto flex flex-col sm:flex-row justify-between items-center gap-4">
           <div onClick={goHome} className="flex flex-col sm:flex-row items-center gap-2 sm:gap-3 text-center sm:text-left cursor-pointer group">
             <div className="flex items-center">
-              <div style={{ maskImage: 'url("/aione-logo.png")', WebkitMaskImage: 'url("/aione-logo.png")', maskRepeat: 'no-repeat', maskSize: '130%', maskPosition: 'center', backgroundColor: 'white', width: '380px', height: '90px' }} className="opacity-95 group-hover:opacity-100 transition-opacity" />
+              <div style={{ maskImage: 'url("/aione-logo.png")', WebkitMaskImage: 'url("/aione-logo.png")', maskRepeat: 'no-repeat', maskSize: '130%', maskPosition: 'center', backgroundColor: 'white', width: '285px', height: '68px' }} className="opacity-95 group-hover:opacity-100 transition-opacity" />
             </div>
             <div className="flex flex-col gap-1">
               <div>
